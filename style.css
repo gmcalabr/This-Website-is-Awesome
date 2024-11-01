@@ -1,3 +1,28 @@
+/* Fonts available: Roboto Thin 100 Italic, Light 300, Regular 400, Black 900 */
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
 body {
     font-family: 'Roboto', sans-serif;
     color: #1f2937;
@@ -164,7 +189,7 @@ body {
 }
 
     .lower-text {
-        width: 448px;
+        width: 420px;
         margin: auto;
         text-align: center;
     }
@@ -173,7 +198,23 @@ body {
 
 .bottom {
     flex: 1;
+    align-content: center;
 }
+
+    .signup-box {
+        display: flex;
+        justify-content: space-between;
+        width: 500px;
+        height: 100px;
+        color: white;
+        background-color: #3882f6;
+        margin: auto;
+        border-radius: 8px;
+    }
+
+        .signup-box > div {
+            margin: auto 64px;
+        }
 
 /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
