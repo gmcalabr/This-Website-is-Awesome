@@ -15,3 +15,12 @@ If I were to rewrite this page I would start with more HTML before starting CSS,
 Another tip I'd like to forward to future me is the idea of naming the colors in plain english names until the final revision. Essentially there were 4 colors on this page per the project definition, but they were all hex-code colors. Likely, any finished project will use hex or rgb colors instead of standard HTML colors in order to not look like web 1.0. However, the human side of entering those codes is tougher. I could have written this entire CSS file using the colors 'white', 'blue', 'lightgray', and 'darkgray' or similar. That would have made building out sections, coloring buttons and text and borders much easier. At the end, a quick find-and-replace from 'white' to '#f9faf8' and so on would change the color pallette of the website rapidly.
 
 Overall, this format does not fit the content that I've built, however it's a competant and modern format that could be used elsewhere.
+
+## Image Credits
+I've used five photos on this design. The first image (the Ressikan Design Logo) belongs to myself. This is a logo I created for what may have been my woodworking project. I do not have any license on this and have relatively little intent of using it in the future, but I would love if it remained personal property.
+
+The next four are, left to right:
+1. Pexels.com - Cottonbro Studios - ID 7484820
+2. Pexels.com - Ono Kosuki - ID 5974276
+3. Pixabay.com - Mabel Amber - ID 3312216_640
+4. Pixabay - T_Tide - ID 1755730_640
